@@ -6,3 +6,6 @@
 
 ## Poole's House
 -857/100
+
+## Brandon's House
+-670/-471
